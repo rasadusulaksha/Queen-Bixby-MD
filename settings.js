@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94757558130']
-global.premium = ['94757558030']
-global.ownernomer = '94711421243'
-global.ownername = 'Indumina'
-global.botname = 'Xofiy X MD'
-global.footer = ' Xofiy X ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.owner = ['9479758024']
+global.premium = ['9479758024']
+global.ownernomer = '9479758024'
+global.ownername = 'RASADU SULAKSHA'
+global.botname = 'LION KING MD-BoT'
+global.footer = ' LION KING ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Xofiy'
-global.author = 'Indumina '
+global.packname = 'LK'
+global.author = 'RASADU SULAKSHA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
